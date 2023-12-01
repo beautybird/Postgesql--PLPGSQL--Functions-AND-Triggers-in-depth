@@ -1,10 +1,15 @@
 # Postgesql-PL-PGSQL-Functions-Triggers-in-depth
 
 This repository is an in-depth explination of the Postgresql PL/PGSQL .
+
 It containes 22 videos of about 7 hours in total.
+
 The first half will be a full talk about the triggers and all it's types, with implementation on a real database.
+
 Same will be done on the Functions .
+
 I hope you will benefit out of this work
+
 Best of luck.
 
   --Triggers
