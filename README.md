@@ -1,4 +1,4 @@
-# Postgesql-PL-PGSQL-Functions-Triggers-in-depth
+# Postgesql-PLPGSQL-Functions-and-Triggers-----in-depth
 
 This repository is an in-depth explination of the Postgresql PL/PGSQL .
 
